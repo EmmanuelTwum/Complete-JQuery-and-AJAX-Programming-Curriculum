@@ -31,6 +31,7 @@ $('#container').on('click','.item-remove',function () {
         $(this).parent().remove();
 });
 
+
 });
 
 
